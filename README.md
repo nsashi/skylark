@@ -2,10 +2,8 @@
 skylark assignment
 
 Task 1 Chunking
-
-
-suggestions
-1. Distribute GCPS widely spread across the corridor
+1. A document attached with the priniciples, notes, references and recommendation
+2. A KML file with 26 chunks is attached
 
 
 Task 2
