@@ -6,6 +6,6 @@ Task 1 Chunking
 2. A KML file with 26 chunks is attached
 
 
-Task 2
+Task 2 Processing plans
 1. An Excel sheet with details of processing time (working doc)
 
